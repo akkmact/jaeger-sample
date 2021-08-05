@@ -22,4 +22,9 @@ Web-Service1-> http://localhost:8080/api/v1/names/random
 
 Web-Service2-> http://localhost:9000/api/v1/animals/random
 
-Web-Service3-> http://localhost:9080/api/v1/scientists/random
+Web-Service3-> http://localhost:8090/api/v1/scientists/random
+
+access the url- http://localhost:16686/search to check the traces 
+
+
+
